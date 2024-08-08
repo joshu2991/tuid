@@ -39,5 +39,5 @@ tuiD is an innovative electronic business card solution designed to streamline t
 
 <h2>Explore MP One Plus</h2>
 The tuiD project demonstrates my capabilities in full-stack development, API integration, and cloud solutions. By focusing on user experience and innovative technology, I have created a platform that modernizes the way we share professional information. This project not only showcases my technical skills but also my ability to address user needs through thoughtful design and functionality.
-
+<br><br>
 For a deeper dive into the project and its features, visit the [project page](https://jhtrueba.xyz/projects/project1)
